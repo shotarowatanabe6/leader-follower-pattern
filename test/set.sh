@@ -1,0 +1,1 @@
+curl -X POST "http://localhost:8080/set" -d '[{"key": "key1", "value": "value1"}]' -H "Content-Type: application/json"
